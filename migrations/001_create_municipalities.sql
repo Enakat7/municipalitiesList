@@ -14,4 +14,4 @@ CREATE TABLE municipalities (
     koaza_common_name TEXT,
     latitude DECIMAL(9, 6),
     longitude DECIMAL(10, 7)
-);
+); 
